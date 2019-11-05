@@ -1,0 +1,21 @@
+p {
+    color: red;
+    background: blue;
+    font-size: 3.0rem;
+}
+
+h1 {
+    background: purple;
+}
+
+.special {
+    background: purple;
+}
+
+.highlighted {
+    border: red;
+}
+
+.main {
+    border: 20px dashed black
+}
